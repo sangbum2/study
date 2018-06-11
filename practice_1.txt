@@ -16,3 +16,5 @@ need sound feature
 
 add sound feature
 add ui feature
+
+release version
